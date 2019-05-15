@@ -6,6 +6,10 @@ import org.springframework.stereotype.Component;
 /**
  * 绿茶
  */
+
+/**
+ * 红茶
+ */
 //Component注解定义当前类能用来创建对象
 @Component
 public class GreenTeaWater implements IWater {
